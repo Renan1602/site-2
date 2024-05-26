@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{ 
+    background-image:url("fundo\ 3.avif");
+     background-color:  rgba(252, 252, 252, 0);
+color: rgb(0, 0, 0);
+
+   }
+p{text-align: justify;
+ text-indent: 20px;
+
+
+
+}
